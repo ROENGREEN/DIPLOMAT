@@ -1,0 +1,1 @@
+<?$config = array();$config['servername'] = 'localhost';$config['id'] = 'root';$config['pass'] = 'ehsqjfwk';$config['database'] = 'DIPLOMAT';return $config;?>
